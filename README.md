@@ -40,6 +40,20 @@ Raw Data → Extract → Transform → Load → SQLite → Dashboard
 - 🐼 Pandas  
 - 🗄️ SQLite  
 - 📊 Streamlit  
+
+---
+
+## 📂 Project Structure
+data/
+  mentah/
+  processed/
+src/
+  extract.py
+  transform.py
+  load.py
+pipeline.py
+app.py
+
 ---
 
 ## 📸 Demo
