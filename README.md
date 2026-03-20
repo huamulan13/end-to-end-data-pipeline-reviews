@@ -44,15 +44,17 @@ Raw Data → Extract → Transform → Load → SQLite → Dashboard
 ---
 
 ## 📂 Project Structure
-data/
+
+```bash
+data/                # mentah & processed data
   mentah/
   processed/
-src/
+src/                 # pipeline modules
   extract.py
   transform.py
   load.py
-pipeline.py
-app.py
+pipeline.py          # main pipeline runner
+app.py               # Streamlit dashboard
 
 ---
 
