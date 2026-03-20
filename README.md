@@ -55,6 +55,7 @@ src/                 # pipeline modules
   load.py
 pipeline.py          # main pipeline runner
 app.py               # Streamlit dashboard
+```
 
 ---
 
@@ -72,3 +73,4 @@ app.py               # Streamlit dashboard
 ```bash
 python pipeline.py
 streamlit run app.py
+```
