@@ -1,0 +1,6 @@
+text,clean_text,sentiment,text_length,processed_at
+Aplikasi ini sangat bagus,aplikasi ini sangat bagus,Positive,25,2026-03-20 23:34:28.069598
+Sering error dan lambat,sering error dan lambat,Negative,23,2026-03-20 23:34:28.069598
+Pelayanan biasa saja,pelayanan biasa saja,Neutral,20,2026-03-20 23:34:28.069598
+Fitur sangat membantu,fitur sangat membantu,Positive,21,2026-03-20 23:34:28.069598
+Aplikasi crash terus,aplikasi crash terus,Negative,20,2026-03-20 23:34:28.069598
